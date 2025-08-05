@@ -110,7 +110,7 @@
 <header>
   <nav>
     <ul>
-      <li><a href="homedangki.html">Trang chủ</a></li>
+      <li><a href="index.html">Trang chủ</a></li>
       <li><a href="thucdon.html">Thực đơn</a></li>
       <li><a href="uudai.html">Ưu đãi</a></li>
       <li><a href="tuyendung.html">Tuyển dụng</a></li>
